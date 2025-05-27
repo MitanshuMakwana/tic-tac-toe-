@@ -30,6 +30,5 @@ tic-tac-toe/
 ├── index.html         # Main HTML file for the game layout
 ├── style.css          # CSS file for styling the game
 ├── script.js          # JavaScript file for game logic (turns, win check, reset)
-├── images/            # (Optional) Folder for icons or screenshots
 └── README.md          # Project documentation file
 
