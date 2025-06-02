@@ -12,7 +12,7 @@ A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 - 🤝 Draw detection when all boxes are filled
 - 🔁 Reset and New Game functionality
 - 🎨 Clean and responsive user interface
-- 📦 Lightweight, no frameworks needed
+
 
 ---
 
